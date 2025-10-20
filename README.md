@@ -30,6 +30,10 @@ Genera gráficos y reportes de forma dinámica.
 #### 🌐 Portafolio Personal – *HTML, CSS, JS*  
 El cual se llama Bennu, ademas del HTML, css y el JS cree APIS y las use para traer las imagenes necesarias para mi trabajo  
 
+
+#### No obstante quiero pedir unas disculpas porque si tengo mucho mas proyectos reales
+del cual son personales que yo mismo he hecho pero mi otro PC se daño y la mayoria de trabajos estaban ahi, al igual no es excusa, espero que mi codigo les guste y pueda desmotrar
+mi conocimiento
 ---
 
 ### 🌍 Contacto
