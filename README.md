@@ -18,13 +18,13 @@ Busco mi primera experiencia profesional en tecnología para seguir creciendo co
 ---
 
 ### Proyectos destacados
-####  Sistema de Ventas Web – *Spring Boot & MySQL*  
-Aplicación web para gestión de productos, usuarios y ventas.  
+####  Sistema de Citas Web – *Spring Boot & MySQL*  
+Aplicación web para gestión de citas medicas, el cual lleva tambien un proceso activo, con otros programadores, pero ayudando como full stack.  
 Incluye autenticación básica y control de roles.  
  *(Repositorio en preparación)*  
 
-#### Automatización de Datos – *Python (pandas & matplotlib)*  
-Script para limpieza y análisis automático de datos CSV.  
+####  Sistema tipo trello 
+Aplicación web para gestion de tareas y organización de material, el cual viene con perfiles y esta en proceso de cambio y de mejora por mi mismo  
 Genera gráficos y reportes de forma dinámica.  
 
 #### 🌐 Portafolio Personal – *HTML, CSS, JS*  
