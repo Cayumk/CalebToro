@@ -1,45 +1,79 @@
-# ¡Hola, soy Caleb Toro!
+#  Hola me Caleb Toro
 
- **Full Stack Developer Jr | Java | Spring Boot | Angular | Python | MySQL**  
-
-Soy estudiante de **Ingeniería Informática** con experiencia práctica en desarrollo web y backend.  
-Me apasiona crear aplicaciones limpias, funcionales y escalables, aplicando buenas prácticas de desarrollo.  
-Busco mi primera experiencia profesional en tecnología para seguir creciendo como desarrollador.
+ **Desarrollador Full Stack Jr en formación**  
+Apasionado por crear soluciones web que mezclen funcionalidad, diseño y buena arquitectura.  
+Actualmente curso **Ingeniería Informática (5° semestre)** y me enfoco en fortalecer mis habilidades técnicas, creatividad y experiencia profesional en proyectos reales.
 
 ---
 
-###  Tecnologías y herramientas
-- **Lenguajes:** Java, JavaScript, Python, HTML, CSS  
-- **Frontend:** Angular, Bootstrap, jQuery  
-- **Backend:** Spring Boot, API REST,  
-- **Bases de datos:** MySQL, PostgreSQL  
-- **Herramientas:** GitHub, Postman, VS Code, Eclipse  
+##  Tecnologías y herramientas que manejo
+###  Backend
+- **Java (Spring Boot)**  
+- **PHP**
+- **MySQL**
+- **APIs RESTful**
+- **JPA / Hibernate**
+
+###  Frontend
+- **Angular**
+- **HTML5 / CSS3 / Bootstrap**
+- **TypeScript / JavaScript**
+
+###  Entorno y control de versiones
+- Git / GitHub  
+- XAMPP / Laragon  
+- Visual Studio Code / IntelliJ IDEA / Eclipse  
+- Postman  
 
 ---
 
-### Proyectos destacados
-####  Sistema de Citas Web – *Spring Boot & MySQL*  
-Aplicación web para gestión de citas medicas, el cual lleva tambien un proceso activo, con otros programadores, pero ayudando como full stack.  
-Incluye autenticación básica y control de roles.  
- *(Repositorio en preparación)*  
+##  Actualmente trabajando en:
+###  [Citas Médicas (Spring Boot + Angular)](https://github.com/Cayumk/citas-medicas-springboot)
+Aplicativo web para la gestión de citas médicas entre pacientes, doctores y auxiliares.  
+Desarrollado con **Spring Boot, Angular y MySQL**.  
+🔹 Permite crear, cancelar y reprogramar citas.  
+🔹 Integración entre frontend y backend mediante API REST.  
+🔹 En proceso de mejora visual y estructural.  
 
-####  Sistema tipo trello 
-Aplicación web para gestion de tareas y organización de material, el cual viene con perfiles y esta en proceso de cambio y de mejora por mi mismo  
-Genera gráficos y reportes de forma dinámica.  
-
-#### 🌐 Portafolio Personal – *HTML, CSS, JS*  
-El cual se llama Bennu, ademas del HTML, css y el JS cree APIS y las use para traer las imagenes necesarias para mi trabajo  
-
-
-#### No obstante quiero pedir unas disculpas porque si tengo mucho mas proyectos reales
-del cual son personales que yo mismo he hecho pero mi otro PC se daño y la mayoria de trabajos estaban ahi, al igual no es excusa, espero que mi codigo les guste y pueda desmotrar
-mi conocimiento
----
-
-### 🌍 Contacto
-📧 **tororuedacalebyeshua@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/caleb-yeshua-toro-rueda-283330373)
+> *Rol:* Full Stack Developer Jr (Spring Boot + Angular)  
+> *Estado:* En desarrollo / optimización  
 
 ---
 
- *Siempre estoy en constante aprendizaje , siempre voy a estar construyendo.*
+###  [Gestor de Tareas tipo Trello (PHP + MySQL)](https://github.com/Cayumk/Trello-php)
+Aplicación colaborativa inspirada en **Trello**, desarrollada con **PHP** y **MySQL**.  
+🔹 Gestión de tareas, usuarios y tableros.  
+🔹 Lógica del backend desarrollada por mí, con integración de frontend en curso por mi equipo.  
+🔹 Proyecto en refactorización hacia una arquitectura más modular.  
+
+> *Rol:* Backend Developer  
+> *Estado:* En evolución  
+
+---
+
+##  Objetivos y visión
+- Seguir fortaleciendo mis habilidades como **Full Stack Developer Jr**.  
+- Participar en proyectos reales donde pueda aprender, aportar valor y crecer profesionalmente.  
+- Crear aplicaciones escalables con código limpio, buenas prácticas y documentación clara.  
+
+---
+
+##  Sobre mí
+Soy una persona **disciplinada, curiosa y con mentalidad de mejora continua**.  
+Me motiva aprender, resolver problemas y construir herramientas que realmente ayuden a otros.  
+Cada línea de código que escribo es una oportunidad de ser mejor que ayer. 🚀
+
+---
+## De igual forma, me gustaria pedir una disculpa, porque los proyectos que presento no es ni la mitad de los que he hecho, pero mi pc se daño y se me perdieron la mayoria de codigos como Bennu una
+paginas de Api rest la cual se trataba sobre la nasa y un juego de vasos dando uso a Pilas, colas, grafos y arboles
+
+
+##📫 Contacto
+📧 **Correo:** [tororuedacalebyeshua@gmail.com](mailto:tororuedacalebyeshua@gmail.com)  
+🔗 **LinkedIn:** [Caleb Yeshua Toro Rueda](https://www.linkedin.com/in/caleb-yeshua-toro-rueda-283330373)  
+💻 **GitHub:** [@Cayumk](https://github.com/Cayumk)
+
+---
+
+⭐ *“No hay código perfecto, solo desarrolladores que buscan mejorarlo cada día.”*
+
