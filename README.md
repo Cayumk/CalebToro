@@ -1,4 +1,4 @@
-#  Hola me Caleb Toro
+#  Hola me  llamo Caleb Toro
 
  **Desarrollador Full Stack Jr en formación**  
 Apasionado por crear soluciones web que mezclen funcionalidad, diseño y buena arquitectura.  
